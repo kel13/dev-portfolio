@@ -19,8 +19,8 @@ h1 {
 h2 {text-transform: uppercase;
 	letter-spacing: 5px;
 	color: white;
-	-webkit-text-stroke-width: 1.5px;
-	-webkit-text-stroke-color: gray;
+	/*-webkit-text-stroke-width: 1.5px;*/
+	/*-webkit-text-stroke-color: gray;*/
 
 }
 
